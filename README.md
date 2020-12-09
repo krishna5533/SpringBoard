@@ -10,3 +10,7 @@
 
 - `GridSearchKNN_Case_Study.ipynb`: ipython notebook for the assignment.
 - `data`: relevant data for the assignment
+
+## Bayesian Hyperparameter Optimization [Bayes_Optimization]
+
+- `Bayesian_optimization_case_study.ipynb`: ipython notebook for Bayesian Optimization of hyperparameter.
