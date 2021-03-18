@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.3
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 88c42eb3c3f24304b38096c982806f43
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "creation_time", "type": "long"}, {"name": "creation_source",
+    "type": "string"}, {"name": "last_session_creation_time", "type": "double"}, {"name":
+    "opted_in_to_mailing_list", "type": "long"}, {"name": "enabled_for_marketing_drip",
+    "type": "long"}, {"name": "org_id", "type": "long"}, {"name": "invited_by_user_id",
+    "type": "long"}]'
+  outputs: null
+utc_time_created: '2021-03-18 00:21:53.288847'

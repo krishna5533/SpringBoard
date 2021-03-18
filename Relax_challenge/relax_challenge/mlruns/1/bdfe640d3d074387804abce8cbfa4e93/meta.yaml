@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamu867/PNNL_Mac/Springboard/GitHub/SpringBoard_Assignments/Relax_challenge/relax_challenge/mlruns/1/bdfe640d3d074387804abce8cbfa4e93/artifacts
+end_time: 1616026911961
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bdfe640d3d074387804abce8cbfa4e93
+run_uuid: bdfe640d3d074387804abce8cbfa4e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616026911878
+status: 3
+tags: []
+user_id: mamu867
