@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mamu867/PNNL_Mac/Springboard/GitHub/SpringBoard_Assignments/ultimate_challenge/ultimate_challenge/mlruns/1/45761c31ff4b4e4c895f6c034483b2c6/artifacts
+end_time: 1616282895335
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 45761c31ff4b4e4c895f6c034483b2c6
+run_uuid: 45761c31ff4b4e4c895f6c034483b2c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616282894974
+status: 3
+tags: []
+user_id: mamu867

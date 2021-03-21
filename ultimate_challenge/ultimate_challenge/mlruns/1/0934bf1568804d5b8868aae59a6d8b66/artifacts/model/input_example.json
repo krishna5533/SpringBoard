@@ -1,0 +1,1 @@
+{"columns": ["city", "trips_in_first_30_days", "avg_rating_of_driver", "avg_surge", "phone", "surge_pct", "ultimate_black_user", "weekday_pct", "avg_dist", "avg_rating_by_driver"], "data": [["King's Landing", 4, 4.7, 1.1, "iPhone", 15.4, true, 46.2, 3.67, 5.0]]}
